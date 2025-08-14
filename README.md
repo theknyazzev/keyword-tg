@@ -222,19 +222,7 @@ logging.basicConfig(level=logging.DEBUG)
 - Limit keywords to reduce false positives
 - Regular database cleanup for performance
 - Monitor memory usage in production
-- Use specific channel filters when possible
-
-## 🤝 Contributing
-
-We welcome contributions! Please see [DEVELOPMENT.md](DEVELOPMENT.md) for detailed guidelines.
-
-### Quick Contribution Steps
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+- Use specific channel filters when possibleines.
 
 ## 📄 License
 

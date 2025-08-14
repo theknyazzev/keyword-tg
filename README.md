@@ -1,4 +1,4 @@
-# 🤖 Stalker Bot
+# 🤖 Keyword tg
 
 **Advanced Telegram Channel Monitoring Bot with Real-time Keyword Detection**
 
